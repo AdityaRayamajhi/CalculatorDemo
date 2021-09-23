@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KyFG7FF9LFDj45awgzW4a4u5v+b/1CCRhEOO0ggZQQWEKkCaQGxMw1cooKnUbvYl8v8pO6LqZRWC+6wQL1btlQ==",
+  "success": true,
+  "projectFilePath": "/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo.iOS/calculatorDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/arayamajhi/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/arayamajhi/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/arayamajhi/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
