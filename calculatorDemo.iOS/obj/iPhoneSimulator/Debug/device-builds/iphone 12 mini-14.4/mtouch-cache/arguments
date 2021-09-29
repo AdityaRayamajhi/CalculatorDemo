@@ -4,19 +4,19 @@
 	--sgen-conc \
 	'/target-framework:Xamarin.iOS,Version=v1.0' \
 	--http-message-handler=NSUrlSessionHandler \
-	'\"--cache=/Users/arayamajhi/Documents/WorkSpace/Training/calculatorDemo/calculatorDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-14.4/mtouch-cache\"' \
-	--root-assembly=/Users/arayamajhi/Documents/WorkSpace/Training/calculatorDemo/calculatorDemo.iOS/bin/iPhoneSimulator/Debug/calculatorDemo.iOS.exe \
+	'\"--cache=/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-14.4/mtouch-cache\"' \
+	--root-assembly=/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo.iOS/bin/iPhoneSimulator/Debug/calculatorDemo.iOS.exe \
 	--sdkroot=/Applications/Xcode.app/Contents/Developer \
 	--targetver=8.0 \
-	'\"--sim=/Users/arayamajhi/Documents/WorkSpace/Training/calculatorDemo/calculatorDemo.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 12 mini-14.4/calculatorDemo.iOS.app\"' \
+	'\"--sim=/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 12 mini-14.4/calculatorDemo.iOS.app\"' \
 	--executable=calculatorDemo.iOS \
 	--nolink \
 	--sdk=14.5 \
 	--aot-options=-O=-float32 \
 	--abi=x86_64 \
-	'\"--symbollist=/Users/arayamajhi/Documents/WorkSpace/Training/calculatorDemo/calculatorDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-14.4/mtouch-symbols.list\"' \
+	'\"--symbollist=/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-14.4/mtouch-symbols.list\"' \
 	--dsym=no \
-	--reference=/Users/arayamajhi/Documents/WorkSpace/Training/calculatorDemo/calculatorDemo/bin/Debug/netstandard2.0/calculatorDemo.dll \
+	--reference=/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo/bin/Debug/netstandard2.0/calculatorDemo.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
@@ -207,5 +207,5 @@
 	--reference=/Users/arayamajhi/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
 	--reference=/Users/arayamajhi/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
 	--reference=/Users/arayamajhi/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
-	--reference=/Users/arayamajhi/Documents/WorkSpace/Training/calculatorDemo/calculatorDemo/bin/Debug/netstandard2.0/calculatorDemo.dll \
-	'@/Users/arayamajhi/Documents/WorkSpace/Training/calculatorDemo/calculatorDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-14.4/response-file.rsp' \
+	--reference=/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo/bin/Debug/netstandard2.0/calculatorDemo.dll \
+	'@/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-14.4/response-file.rsp' \

@@ -9,8 +9,7 @@ namespace calculatorDemo
         public App()
         {
             InitializeComponent();
-
-            MainPage = new NavigationPage(new MyCalculatorPage());
+            MainPage = new NavigationPage(new DemoPage());
         }
 
         protected override void OnStart()

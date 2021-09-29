@@ -1,4 +1,4 @@
-/Users/arayamajhi/Documents/WorkSpace/Training/calculatorDemo/calculatorDemo.iOS/bin/iPhoneSimulator/Debug/calculatorDemo.iOS.exe
+/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo.iOS/bin/iPhoneSimulator/Debug/calculatorDemo.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.20.0.3/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.20.0.3/lib/mono/Xamarin.iOS/../../64bits/iOS/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.20.0.3/lib/mono/Xamarin.iOS/System.dll
@@ -22,5 +22,5 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.20.0.3/lib/mono/Xamarin.iOS/System.Web.Services.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.20.0.3/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
 /Users/arayamajhi/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
-/Users/arayamajhi/Documents/WorkSpace/Training/calculatorDemo/calculatorDemo/bin/Debug/netstandard2.0/calculatorDemo.dll
+/Users/arayamajhi/Documents/WorkSpace/Training/Github/calculatorDemo/bin/Debug/netstandard2.0/calculatorDemo.dll
 /Users/arayamajhi/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll

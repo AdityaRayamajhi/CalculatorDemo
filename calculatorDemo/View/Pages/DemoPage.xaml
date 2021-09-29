@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:components="clr-namespace:calculatorDemo.View.ViewComponents"
+    x:Name="this"
+    x:Class="calculatorDemo.DemoPage">
+
+    <ContentPage.Resources>
+        <DataTemplate x:Key="SimpleListTemplate">
+            <ViewCell>
+                 <StackLayout Orientation="Horizontal" Padding="6">
+                    <Label Text="{Binding LabelText}" TextColor="DimGray" VerticalOptions="Center" HorizontalOptions="CenterAndExpand"/>
+                    <Button HorizontalOptions="End" Padding="8" Text="{Binding ButtonLabel}" BackgroundColor="DeepSkyBlue" VerticalOptions="Center" />
+                 </StackLayout>
+                <!--<components:ButtonLabelComponent ComponentLabelText="{Binding LabelText}" ComponentBttnText="{Binding ButtonLabel}" />-->
+            </ViewCell>
+        </DataTemplate>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <ListView x:Name="SimpleList" ItemTemplate="{StaticResource SimpleListTemplate}" ItemsSource="{Binding ItemSource}" />
+    </ContentPage.Content>
+</ContentPage>
+ 
